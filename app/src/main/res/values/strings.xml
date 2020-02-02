@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="event">event</string>
+    <string name="weather">weather</string>
+    <string name="location">location</string>
+    <string name="nav_drawer_open">open</string>
+    <string name="nav_drawer_close">close</string>
+</resources>
